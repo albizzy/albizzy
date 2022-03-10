@@ -6,3 +6,5 @@
 -  👫 I'm looking forward to collaborate with other developers and designers.
 -  ⚽ 2021 goals: Contribute more to open sourse projects.
 -  ⚡ Fun fact: I love to draw, I play guitar, I make music beats and I love to travel.
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=albizzy&theme=highcontrast&show_icons=true&count_private=true)
