@@ -12,9 +12,6 @@ Skills: ***React/JS/Typescript/Html/Css/Python***
 - 😄 Pronouns: him 
 - ⚡ Fun fact: I can't ~~*swim*~~ 
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/albizzy )  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/iambizzy19/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/iambizzy19)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/user:15095117)  
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albizzy )](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=albizzy )  
