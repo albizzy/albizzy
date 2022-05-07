@@ -1,6 +1,5 @@
-# Hi there :wave: I'm @Albert Ferdinand Mwasisoba### Hi there 👋, my name is **Albert**
+## Hi there 👋, my name is **Albert**
 #### I am a **Software Developer**
-![I am a **Software Developer**](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I'm a self-taught software developer currently based in Tanzania. I love everything about programming and coding. ***Let's code***.
 
