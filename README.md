@@ -3,7 +3,6 @@
 
 I'm a self-taught software developer currently based in Tanzania. I love everything about programming and coding. ***Let's code***.
 
-<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 
 Skills: ***React/JS/Typescript/Html/Css/Python***
 
