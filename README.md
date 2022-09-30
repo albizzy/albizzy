@@ -13,8 +13,7 @@ Skills: ***React/JS/Typescript/Html/Css/Python***
 - 💬 Ask me about **Web** and **Android** 
 - 😄 Pronouns: him 
 - ⚡ Fun fact: I can't ~~*swim*~~ 
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=albizzy )  
+ 
 
 ![Profile views](https://gpvc.arturio.dev/albizzy ) [![wakatime](https://wakatime.com/badge/user/3cfa813f-8a26-40a1-a461-4f6b1698a8e0.svg)](https://wakatime.com/@3cfa813f-8a26-40a1-a461-4f6b1698a8e0)  
 
