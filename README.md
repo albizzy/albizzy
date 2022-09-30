@@ -18,5 +18,3 @@ Skills: ***React/JS/Typescript/Html/Css/Python***
 ![Profile views](https://gpvc.arturio.dev/albizzy ) [![wakatime](https://wakatime.com/badge/user/3cfa813f-8a26-40a1-a461-4f6b1698a8e0.svg)](https://wakatime.com/@3cfa813f-8a26-40a1-a461-4f6b1698a8e0)  
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=albizzy&theme=vue&show_icons=true&count_private=true)
-=======
