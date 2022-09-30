@@ -18,4 +18,9 @@ Skills: ***React/JS/Typescript/Html/Css/Python***
 
 ![Profile views](https://gpvc.arturio.dev/albizzy ) [![wakatime](https://wakatime.com/badge/user/3cfa813f-8a26-40a1-a461-4f6b1698a8e0.svg)](https://wakatime.com/@3cfa813f-8a26-40a1-a461-4f6b1698a8e0)  
 
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=albizzy&theme=vue&show_icons=true&count_private=true)
+=======
+![Github stats](https://github-readme-stats.vercel.app/api?username=albizzy&theme=vue&show_icons=true&count_private=true)
+
+<a href="https://app.daily.dev/Iambizzy19"><img src="https://api.daily.dev/devcards/1d53cbdce8324fc5b1a44f328e871323.png?r=fja" width="400" alt="Albert Mwasisoba's Dev Card"/></a>
