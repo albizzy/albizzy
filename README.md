@@ -1,5 +1,6 @@
-## Hi there 👋, my name is **Albert**
-### I am a **Software Developer**
+# Hi there 👋, my name is **Albert**
+
+## I am a **Software Developer**
 
 I'm a self-taught software developer currently based in Tanzania. I love everything about programming and coding. ***Let's code***.
 
@@ -7,7 +8,7 @@ I'm a self-taught software developer currently based in Tanzania. I love everyth
 Skills: ***React/JS/Typescript/Html/Css/Python***
 
 - 🔭 I’m currently working on ***varsityMart project*** 
-- 🌱 I’m currently learning [Typescript]() and [Python]() 
+- 🌱 I’m currently learning [Dart](https://dart.dev/)
 - 👯 I’m looking to collaborate on Open source **React** projects 
 - 💬 Ask me about **Web** and **Android** 
 - 😄 Pronouns: him 
