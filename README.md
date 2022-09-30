@@ -21,5 +21,3 @@ Skills: ***React/JS/Typescript/Html/Css/Python***
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=albizzy&theme=vue&show_icons=true&count_private=true)
 =======
-
-<a href="https://app.daily.dev/Iambizzy19"><img src="https://api.daily.dev/devcards/1d53cbdce8324fc5b1a44f328e871323.png?r=fja" width="400" alt="Albert Mwasisoba's Dev Card"/></a>
