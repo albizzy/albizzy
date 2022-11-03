@@ -2,7 +2,7 @@
 
 ## I am a **Software Developer**
 
-I'm a self-taught software developer currently based in Tanzania. I love everything about programming and coding. ***Let's code***.
+Frontend developer from Tanzania ***Let's code***.
 
 
 Skills: ***React/JS/Typescript/Html/Css/Python***
