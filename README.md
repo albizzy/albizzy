@@ -1,4 +1,4 @@
-# Hi there 👋, my name is **Albert**
+# Hi! 👋, my name is **Albert**
 
 ## I am a **Software Developer**
 
