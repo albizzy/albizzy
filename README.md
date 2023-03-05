@@ -2,7 +2,7 @@
 
 ## **Software Developer**
 
-Frontend developer from Tanzania.
+web dev | mobile app dev from Tanzania.
 
  
 - 🌱 Currently learning [Dart](https://dart.dev/)
