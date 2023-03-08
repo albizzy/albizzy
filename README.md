@@ -2,7 +2,7 @@
 
 ## **Software Developer**
 
-web dev | mobile app dev from Tanzania.
+frontend dev with React | mobile app dev with Flutter | backend dev with NodeJS | UI/UX design with Figma
 
  
 - 🌱 Currently learning [Dart](https://dart.dev/)
