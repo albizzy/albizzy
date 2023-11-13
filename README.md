@@ -2,7 +2,7 @@
 
 ## **Software Developer**
 
-frontend dev with ReactJS | mobile app dev with Flutter | backend dev with NodeJS | UI/UX design with Figma
+ReactJS & NextJS | Flutter
 
  
 - 🌱 Currently learning [Golang](https://go.dev/)
